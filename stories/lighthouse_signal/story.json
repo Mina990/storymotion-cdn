@@ -1,0 +1,382 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "start_ms": 0,
+      "end_ms": 8950,
+      "primary_image": "page_1.jpg",
+      "secondary_image": null,
+      "swap_at_ms": null,
+      "words": [
+        {
+          "text": "The",
+          "start_ms": 0,
+          "end_ms": 477,
+          "sfx": null
+        },
+        {
+          "text": "[sfx:wind]",
+          "start_ms": 497,
+          "end_ms": 974,
+          "sfx": null
+        },
+        {
+          "text": "wind",
+          "start_ms": 994,
+          "end_ms": 1472,
+          "sfx": null
+        },
+        {
+          "text": "howled",
+          "start_ms": 1492,
+          "end_ms": 1969,
+          "sfx": null
+        },
+        {
+          "text": "across",
+          "start_ms": 1989,
+          "end_ms": 2466,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 2486,
+          "end_ms": 2963,
+          "sfx": null
+        },
+        {
+          "text": "jagged",
+          "start_ms": 2983,
+          "end_ms": 3461,
+          "sfx": null
+        },
+        {
+          "text": "cliffs",
+          "start_ms": 3481,
+          "end_ms": 3958,
+          "sfx": null
+        },
+        {
+          "text": "of",
+          "start_ms": 3978,
+          "end_ms": 4455,
+          "sfx": null
+        },
+        {
+          "text": "Blackrock",
+          "start_ms": 4475,
+          "end_ms": 4952,
+          "sfx": null
+        },
+        {
+          "text": "Island",
+          "start_ms": 4972,
+          "end_ms": 5449,
+          "sfx": null
+        },
+        {
+          "text": "as",
+          "start_ms": 5469,
+          "end_ms": 5947,
+          "sfx": null
+        },
+        {
+          "text": "Julian",
+          "start_ms": 5967,
+          "end_ms": 6444,
+          "sfx": null
+        },
+        {
+          "text": "climbed",
+          "start_ms": 6464,
+          "end_ms": 6941,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 6961,
+          "end_ms": 7438,
+          "sfx": null
+        },
+        {
+          "text": "spiral",
+          "start_ms": 7458,
+          "end_ms": 7936,
+          "sfx": null
+        },
+        {
+          "text": "iron",
+          "start_ms": 7956,
+          "end_ms": 8433,
+          "sfx": null
+        },
+        {
+          "text": "stairs.",
+          "start_ms": 8453,
+          "end_ms": 8930,
+          "sfx": null
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "start_ms": 8950,
+      "end_ms": 19392,
+      "primary_image": "page_2.jpg",
+      "secondary_image": null,
+      "swap_at_ms": null,
+      "words": [
+        {
+          "text": "Inside",
+          "start_ms": 8950,
+          "end_ms": 9427,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 9447,
+          "end_ms": 9924,
+          "sfx": null
+        },
+        {
+          "text": "lantern",
+          "start_ms": 9944,
+          "end_ms": 10422,
+          "sfx": null
+        },
+        {
+          "text": "room,",
+          "start_ms": 10442,
+          "end_ms": 10919,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 10939,
+          "end_ms": 11416,
+          "sfx": null
+        },
+        {
+          "text": "massive",
+          "start_ms": 11436,
+          "end_ms": 11913,
+          "sfx": null
+        },
+        {
+          "text": "brass",
+          "start_ms": 11933,
+          "end_ms": 12411,
+          "sfx": null
+        },
+        {
+          "text": "lens",
+          "start_ms": 12431,
+          "end_ms": 12908,
+          "sfx": null
+        },
+        {
+          "text": "was",
+          "start_ms": 12928,
+          "end_ms": 13405,
+          "sfx": null
+        },
+        {
+          "text": "dark,",
+          "start_ms": 13425,
+          "end_ms": 13902,
+          "sfx": null
+        },
+        {
+          "text": "yet",
+          "start_ms": 13922,
+          "end_ms": 14400,
+          "sfx": null
+        },
+        {
+          "text": "a",
+          "start_ms": 14420,
+          "end_ms": 14897,
+          "sfx": null
+        },
+        {
+          "text": "[sfx:footsteps]",
+          "start_ms": 14917,
+          "end_ms": 15394,
+          "sfx": null
+        },
+        {
+          "text": "steady",
+          "start_ms": 15414,
+          "end_ms": 15891,
+          "sfx": null
+        },
+        {
+          "text": "rhythm",
+          "start_ms": 15911,
+          "end_ms": 16389,
+          "sfx": null
+        },
+        {
+          "text": "echoed",
+          "start_ms": 16409,
+          "end_ms": 16886,
+          "sfx": null
+        },
+        {
+          "text": "from",
+          "start_ms": 16906,
+          "end_ms": 17383,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 17403,
+          "end_ms": 17880,
+          "sfx": null
+        },
+        {
+          "text": "locked",
+          "start_ms": 17900,
+          "end_ms": 18378,
+          "sfx": null
+        },
+        {
+          "text": "cellar",
+          "start_ms": 18398,
+          "end_ms": 18875,
+          "sfx": null
+        },
+        {
+          "text": "below.",
+          "start_ms": 18895,
+          "end_ms": 19372,
+          "sfx": null
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "start_ms": 19392,
+      "end_ms": 28839,
+      "primary_image": "page_3.jpg",
+      "secondary_image": null,
+      "swap_at_ms": null,
+      "words": [
+        {
+          "text": "He",
+          "start_ms": 19392,
+          "end_ms": 19869,
+          "sfx": null
+        },
+        {
+          "text": "pushed",
+          "start_ms": 19889,
+          "end_ms": 20366,
+          "sfx": null
+        },
+        {
+          "text": "open",
+          "start_ms": 20386,
+          "end_ms": 20864,
+          "sfx": null
+        },
+        {
+          "text": "the",
+          "start_ms": 20884,
+          "end_ms": 21361,
+          "sfx": null
+        },
+        {
+          "text": "heavy",
+          "start_ms": 21381,
+          "end_ms": 21858,
+          "sfx": null
+        },
+        {
+          "text": "oak",
+          "start_ms": 21878,
+          "end_ms": 22355,
+          "sfx": null
+        },
+        {
+          "text": "[sfx:door_creak]",
+          "start_ms": 22375,
+          "end_ms": 22852,
+          "sfx": null
+        },
+        {
+          "text": "door",
+          "start_ms": 22872,
+          "end_ms": 23350,
+          "sfx": null
+        },
+        {
+          "text": "and",
+          "start_ms": 23370,
+          "end_ms": 23847,
+          "sfx": null
+        },
+        {
+          "text": "froze—the",
+          "start_ms": 23867,
+          "end_ms": 24344,
+          "sfx": null
+        },
+        {
+          "text": "old",
+          "start_ms": 24364,
+          "end_ms": 24841,
+          "sfx": null
+        },
+        {
+          "text": "telegraph",
+          "start_ms": 24861,
+          "end_ms": 25339,
+          "sfx": null
+        },
+        {
+          "text": "machine",
+          "start_ms": 25359,
+          "end_ms": 25836,
+          "sfx": null
+        },
+        {
+          "text": "was",
+          "start_ms": 25856,
+          "end_ms": 26333,
+          "sfx": null
+        },
+        {
+          "text": "printing",
+          "start_ms": 26353,
+          "end_ms": 26830,
+          "sfx": null
+        },
+        {
+          "text": "a",
+          "start_ms": 26850,
+          "end_ms": 27327,
+          "sfx": null
+        },
+        {
+          "text": "message",
+          "start_ms": 27347,
+          "end_ms": 27825,
+          "sfx": null
+        },
+        {
+          "text": "dated",
+          "start_ms": 27845,
+          "end_ms": 28322,
+          "sfx": null
+        },
+        {
+          "text": "tomorrow.",
+          "start_ms": 28342,
+          "end_ms": 28819,
+          "sfx": null
+        }
+      ]
+    }
+  ]
+}
