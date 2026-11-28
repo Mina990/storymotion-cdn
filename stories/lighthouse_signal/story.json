@@ -3,7 +3,7 @@
     {
       "page_number": 1,
       "start_ms": 0,
-      "end_ms": 8855,
+      "end_ms": 8849,
       "audio_clip": "page_1_audio.wav",
       "primary_image": "page_1.jpg",
       "secondary_image": null,
@@ -18,105 +18,105 @@
         {
           "text": "wind",
           "start_ms": 296,
-          "end_ms": 692,
+          "end_ms": 691,
           "sfx": "wind"
         },
         {
           "text": "howled",
-          "start_ms": 692,
-          "end_ms": 1285,
+          "start_ms": 691,
+          "end_ms": 1284,
           "sfx": null
         },
         {
           "text": "across",
-          "start_ms": 1285,
-          "end_ms": 1878,
+          "start_ms": 1284,
+          "end_ms": 1876,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 1878,
-          "end_ms": 2174,
+          "start_ms": 1876,
+          "end_ms": 2173,
           "sfx": null
         },
         {
           "text": "jagged",
-          "start_ms": 2174,
-          "end_ms": 2767,
+          "start_ms": 2173,
+          "end_ms": 2765,
           "sfx": null
         },
         {
           "text": "cliffs",
-          "start_ms": 2767,
-          "end_ms": 3360,
+          "start_ms": 2765,
+          "end_ms": 3358,
           "sfx": null
         },
         {
           "text": "of",
-          "start_ms": 3360,
-          "end_ms": 3578,
+          "start_ms": 3358,
+          "end_ms": 3575,
           "sfx": null
         },
         {
           "text": "Blackrock",
-          "start_ms": 3578,
-          "end_ms": 4467,
+          "start_ms": 3575,
+          "end_ms": 4464,
           "sfx": null
         },
         {
           "text": "Island",
-          "start_ms": 4467,
-          "end_ms": 5060,
+          "start_ms": 4464,
+          "end_ms": 5057,
           "sfx": null
         },
         {
           "text": "as",
-          "start_ms": 5060,
-          "end_ms": 5277,
+          "start_ms": 5057,
+          "end_ms": 5274,
           "sfx": null
         },
         {
           "text": "Julian",
-          "start_ms": 5277,
-          "end_ms": 5870,
+          "start_ms": 5274,
+          "end_ms": 5866,
           "sfx": null
         },
         {
           "text": "climbed",
-          "start_ms": 5870,
-          "end_ms": 6562,
+          "start_ms": 5866,
+          "end_ms": 6558,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 6562,
-          "end_ms": 6859,
+          "start_ms": 6558,
+          "end_ms": 6854,
           "sfx": null
         },
         {
           "text": "spiral",
-          "start_ms": 6859,
-          "end_ms": 7452,
+          "start_ms": 6854,
+          "end_ms": 7447,
           "sfx": null
         },
         {
           "text": "iron",
-          "start_ms": 7452,
-          "end_ms": 7847,
+          "start_ms": 7447,
+          "end_ms": 7842,
           "sfx": null
         },
         {
           "text": "stairs.",
-          "start_ms": 7847,
-          "end_ms": 8855,
+          "start_ms": 7842,
+          "end_ms": 8849,
           "sfx": null
         }
       ]
     },
     {
       "page_number": 2,
-      "start_ms": 8855,
-      "end_ms": 19043,
+      "start_ms": 8849,
+      "end_ms": 19041,
       "audio_clip": "page_2_audio.wav",
       "primary_image": "page_2.jpg",
       "secondary_image": null,
@@ -124,129 +124,129 @@
       "words": [
         {
           "text": "Inside",
-          "start_ms": 8855,
-          "end_ms": 9453,
+          "start_ms": 8849,
+          "end_ms": 9447,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 9453,
-          "end_ms": 9752,
+          "start_ms": 9447,
+          "end_ms": 9747,
           "sfx": null
         },
         {
           "text": "lantern",
-          "start_ms": 9752,
-          "end_ms": 10450,
+          "start_ms": 9747,
+          "end_ms": 10445,
           "sfx": null
         },
         {
           "text": "room,",
-          "start_ms": 10450,
-          "end_ms": 11088,
+          "start_ms": 10445,
+          "end_ms": 11083,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 11088,
-          "end_ms": 11387,
+          "start_ms": 11083,
+          "end_ms": 11382,
           "sfx": null
         },
         {
           "text": "massive",
-          "start_ms": 11387,
-          "end_ms": 12085,
+          "start_ms": 11382,
+          "end_ms": 12080,
           "sfx": null
         },
         {
           "text": "brass",
-          "start_ms": 12085,
-          "end_ms": 12583,
+          "start_ms": 12080,
+          "end_ms": 12579,
           "sfx": null
         },
         {
           "text": "lens",
-          "start_ms": 12583,
-          "end_ms": 12982,
+          "start_ms": 12579,
+          "end_ms": 12978,
           "sfx": null
         },
         {
           "text": "was",
-          "start_ms": 12982,
-          "end_ms": 13281,
+          "start_ms": 12978,
+          "end_ms": 13277,
           "sfx": null
         },
         {
           "text": "dark,",
-          "start_ms": 13281,
-          "end_ms": 13919,
+          "start_ms": 13277,
+          "end_ms": 13915,
           "sfx": null
         },
         {
           "text": "yet",
-          "start_ms": 13919,
-          "end_ms": 14218,
+          "start_ms": 13915,
+          "end_ms": 14214,
           "sfx": null
         },
         {
           "text": "a",
-          "start_ms": 14218,
-          "end_ms": 14437,
+          "start_ms": 14214,
+          "end_ms": 14434,
           "sfx": null
         },
         {
           "text": "steady",
-          "start_ms": 14437,
-          "end_ms": 15036,
+          "start_ms": 14434,
+          "end_ms": 15032,
           "sfx": "footsteps"
         },
         {
           "text": "rhythm",
-          "start_ms": 15036,
-          "end_ms": 15634,
+          "start_ms": 15032,
+          "end_ms": 15630,
           "sfx": null
         },
         {
           "text": "echoed",
-          "start_ms": 15634,
-          "end_ms": 16232,
+          "start_ms": 15630,
+          "end_ms": 16229,
           "sfx": null
         },
         {
           "text": "from",
-          "start_ms": 16232,
-          "end_ms": 16631,
+          "start_ms": 16229,
+          "end_ms": 16628,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 16631,
-          "end_ms": 16930,
+          "start_ms": 16628,
+          "end_ms": 16927,
           "sfx": null
         },
         {
           "text": "locked",
-          "start_ms": 16930,
-          "end_ms": 17528,
+          "start_ms": 16927,
+          "end_ms": 17525,
           "sfx": null
         },
         {
           "text": "cellar",
-          "start_ms": 17528,
-          "end_ms": 18126,
+          "start_ms": 17525,
+          "end_ms": 18124,
           "sfx": null
         },
         {
           "text": "below.",
-          "start_ms": 18126,
-          "end_ms": 19043,
+          "start_ms": 18124,
+          "end_ms": 19041,
           "sfx": null
         }
       ]
     },
     {
       "page_number": 3,
-      "start_ms": 19043,
+      "start_ms": 19041,
       "end_ms": 28839,
       "audio_clip": "page_3_audio.wav",
       "primary_image": "page_3.jpg",
@@ -255,103 +255,103 @@
       "words": [
         {
           "text": "He",
-          "start_ms": 19043,
-          "end_ms": 19258,
+          "start_ms": 19041,
+          "end_ms": 19256,
           "sfx": null
         },
         {
           "text": "pushed",
-          "start_ms": 19258,
-          "end_ms": 19845,
+          "start_ms": 19256,
+          "end_ms": 19844,
           "sfx": null
         },
         {
           "text": "open",
-          "start_ms": 19845,
-          "end_ms": 20237,
+          "start_ms": 19844,
+          "end_ms": 20235,
           "sfx": null
         },
         {
           "text": "the",
-          "start_ms": 20237,
-          "end_ms": 20531,
+          "start_ms": 20235,
+          "end_ms": 20529,
           "sfx": null
         },
         {
           "text": "heavy",
-          "start_ms": 20531,
-          "end_ms": 21020,
+          "start_ms": 20529,
+          "end_ms": 21018,
           "sfx": null
         },
         {
           "text": "oak",
-          "start_ms": 21020,
-          "end_ms": 21313,
+          "start_ms": 21018,
+          "end_ms": 21312,
           "sfx": null
         },
         {
           "text": "door",
-          "start_ms": 21313,
-          "end_ms": 21705,
+          "start_ms": 21312,
+          "end_ms": 21703,
           "sfx": "door_creak"
         },
         {
           "text": "and",
-          "start_ms": 21705,
-          "end_ms": 21998,
+          "start_ms": 21703,
+          "end_ms": 21997,
           "sfx": null
         },
         {
           "text": "froze—the",
-          "start_ms": 21998,
-          "end_ms": 23320,
+          "start_ms": 21997,
+          "end_ms": 23318,
           "sfx": null
         },
         {
           "text": "old",
-          "start_ms": 23320,
-          "end_ms": 23613,
+          "start_ms": 23318,
+          "end_ms": 23612,
           "sfx": null
         },
         {
           "text": "telegraph",
-          "start_ms": 23613,
-          "end_ms": 24494,
+          "start_ms": 23612,
+          "end_ms": 24493,
           "sfx": null
         },
         {
           "text": "machine",
-          "start_ms": 24494,
-          "end_ms": 25179,
+          "start_ms": 24493,
+          "end_ms": 25178,
           "sfx": null
         },
         {
           "text": "was",
-          "start_ms": 25179,
-          "end_ms": 25473,
+          "start_ms": 25178,
+          "end_ms": 25472,
           "sfx": null
         },
         {
           "text": "printing",
-          "start_ms": 25473,
+          "start_ms": 25472,
           "end_ms": 26255,
           "sfx": null
         },
         {
           "text": "a",
           "start_ms": 26255,
-          "end_ms": 26471,
+          "end_ms": 26470,
           "sfx": null
         },
         {
           "text": "message",
-          "start_ms": 26471,
-          "end_ms": 27156,
+          "start_ms": 26470,
+          "end_ms": 27155,
           "sfx": null
         },
         {
           "text": "dated",
-          "start_ms": 27156,
+          "start_ms": 27155,
           "end_ms": 27645,
           "sfx": null
         },
